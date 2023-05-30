@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qualitynq04200
 - 👀 I’m interested in artificial intelligence and software developement
 - 🌱 I’m currently learning how to create thoughtful apps
-- 💞️ I’m looking to collaborate on a game im trying to code, and anything to do with AI
+- 💞️ I’m looking to collaborate on anything to do with AI
 - 📫 My email is joeharris04200@gmail.com
 
 <!---
